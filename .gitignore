@@ -3,3 +3,6 @@
 scripts/*
 GHDScripts/*
 GHDScripts
+*.har
+*.exe
+.vscode/tasks.json
